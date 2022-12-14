@@ -1,0 +1,64 @@
+body {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: sans-serif;
+    background: #1F2937
+}
+
+#title1{
+    color: #FFFFFF;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+#title2{
+    color: #4ADF86;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+}
+
+#instruction{
+    color: #D5D4D8;
+    margin-top: 10px;
+}
+
+#generater{
+    background:#10B981;
+    color:#FFFFFF;
+    border: none;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 15px;
+    padding-right: 17px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+}
+
+.passwords{
+
+}
+
+#password1-el{
+    width: 211px;
+    height: 39px;
+    background: #273549;
+    border: none;
+    margin-top: 40px;
+    border-radius: 5px;
+    color: #55F991;
+    margin-right: 20px
+}
+
+#password2-el{
+    width: 211px;
+    height: 39px;
+    background: #273549;
+    border: none;
+    margin-top: 40px;
+    border-radius: 5px;
+    color: #55F991;
+    margin-right: 20px
+}
